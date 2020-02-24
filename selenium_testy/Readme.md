@@ -7,7 +7,7 @@ c) Install python distribution: [Link](https://realpython.com/installing-python/
 d) Install Selenium webdriver: [Link](https://selenium-python.readthedocs.io/installation.html) <br/>
  
 ## To run test selenium webdriver: <br/>
-a) clone repository to executable localization <br/>
+a) Clone repository to executable localization <br/>
 b) Open linux console <br/>
 c) Go to destination: (repository)/selenium_testy_2/page_object_patern <br/>
 d) Run command: python -m unittest test_mediamarkt_pop <br/>
